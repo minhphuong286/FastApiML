@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     # apps
     'apps.endpoints',
     'rest_framework',
+    'apps.ml',
+    
     
 ]
 
